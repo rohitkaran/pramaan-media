@@ -2,7 +2,7 @@
 
 Pramaan · Science, with proof · <https://www.youtube.com/@pramaan.science>
 
-Video: <https://youtu.be/DpPL6ykkbDA>
+Video: <https://youtu.be/bgh-J4rsL2I>
 
 ## Sources and data (18)
 
