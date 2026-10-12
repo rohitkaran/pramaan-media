@@ -4,50 +4,50 @@ Pramaan · Science, with proof · <https://www.youtube.com/@pramaan.science>
 
 ## Sources and data (75)
 
-1. NASA Science, 'Webb's First Images: Dawn of a New Era' — <https://science.nasa.gov/asset/webb/webbs-first-images-dawn-of-a-new-era/>
-2. NASA Science, 'Webb's Mirrors' — <https://science.nasa.gov/mission/webb/webbs-mirrors/>
-3. NASA Science, Webb Telescope Overview — <https://science.nasa.gov/mission/webb/science-overview/science-explainers/telescope-overview/>
-4. NASA Science, 'How Can Webb Study the Early Universe?' — <https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-can-webb-study-the-early-universe/>
-5. NASA Science, 'Our Milky Way Galaxy: How Big is Space?' — <https://science.nasa.gov/universe/exoplanets/our-milky-way-galaxy-how-big-is-space/>
-6. NASA Science, 'The Impact of Webb on Our Understanding of Black Holes' (9 Oct 2026) — <https://science.nasa.gov/mission/webb/science-overview/science-explainers/the-impact-of-webb-on-our-understanding-of-black-holes/>
-7. NASA. Black hole existed 570 million years after Big Bang (NIRSpec MSA emission spectrum). NASA Science. 2023 — <https://science.nasa.gov/asset/webb/black-hole-existed-570-million-years-after-big-bang-nirspec-msa-emission-spectrum>
-8. NASA. Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds (14 Jan 2025). NASA Science release. 2025 — <https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/>
-9. NASA, ESA, CSA, STScI, D. Kocevski. Little Red Dots (NIRCam Image). NASA Science image asset. 2025 — <https://science.nasa.gov/asset/webb/little-red-dots-nircam-image/>
-10. NASA Science. Supermassive Black Holes / Little Red Dots / The Impact of Webb on Our Understanding of Black Holes. science.nasa.gov (9 Oct 2026). 2026 — <https://science.nasa.gov/asset/webb/supermassive-black-holes/>
-11. NASA Science. NASA Webb Finds Strongest Evidence Yet for 'Black Hole Stars'. science.nasa.gov (10 Jun 2026). 2026 — <https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/>
-12. NASA Science. NASA's Webb Reveals Black Hole That Formed Before Its Galaxy. science.nasa.gov (27 May 2026). 2026 — <https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/>
-13. Image credits and licences: listed per file in media/media.json (NASA images public domain; ESA/Webb and paper figures CC BY 4.0; the NOIRLab image is an artist's impression)
-14. Kocevski, D. D., Onoue, M., Inayoshi, K., et al. Hidden Little Monsters: Spectroscopic Identification of Low-Mass, Broad-Line AGN at z>5 with CEERS. ApJL; arXiv:2302.00012. 2023 — <https://arxiv.org/abs/2302.00012>
-15. Kocevski, D. D., Finkelstein, S. L., Barro, G., Taylor, A. J., et al. The Rise of Faint, Red AGN at z>4: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields. ApJ; arXiv:2404.03576. 2025 — <https://arxiv.org/abs/2404.03576>
-16. Kocevski, D. D., Taylor, A. J. et al. Skyfire: A Spectroscopic Census of Little Red Dots and Broad-Line AGN in the CEERS Field. arXiv:2609.00112. 2026 — <https://arxiv.org/abs/2609.00112>
-17. Pacucci, F., Ferrara, A., Kocevski, D. D. The Little Red Dots Are Direct Collapse Black Holes. arXiv:2601.14368. 2026 — <https://arxiv.org/abs/2601.14368>
-18. Matthee, J., Naidu, R. P., Brammer, G., et al. Little Red Dots: an abundant population of faint AGN at z~5 revealed by the EIGER and FRESCO JWST surveys. ApJ; arXiv:2306.05448. 2024 — <https://arxiv.org/abs/2306.05448>
-19. Naidu, R. P., Matthee, J., Katz, H., de Graaff, A., Oesch, P. et al. A Black Hole Star Reveals the Remarkable Gas-Enshrouded Hearts of the Little Red Dots (published as 'A Gas Enshrouded and Gas Reddened Black Hole at Cosmic Dawn'). arXiv:2503.16596; Nature (2026), DOI 10.1038/s41586-026-10846-4. 2026 — <https://arxiv.org/abs/2503.16596>
-20. Naidu, Matthee et al., 'A Gas Enshrouded and Gas Reddened Black Hole at Cosmic Dawn', Nature 2026, DOI 10.1038/s41586-026-10846-4 (via MIT News and ERC releases) — <https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812>
-21. Baggen, J. F. W., van Dokkum, P., Labbé, I., et al. Sizes and mass profiles of candidate massive galaxies discovered by JWST at 7<z<9. ApJL; arXiv:2305.17162. 2023 — <https://arxiv.org/abs/2305.17162>
-22. Labbé, I., Greene, J. E., Bezanson, R., et al. UNCOVER: Candidate Red Active Galactic Nuclei at 3<z<7 with JWST and ALMA. ApJ (submitted at time of arXiv); arXiv:2306.07320. 2023 — <https://arxiv.org/abs/2306.07320>
-23. Labbé, I., van Dokkum, P., Nelson, E., et al. A population of red candidate massive galaxies ~600 Myr after the Big Bang. Nature (DOI 10.1038/s41586-023-05786-2); arXiv:2207.12446. 2023 — <https://arxiv.org/abs/2207.12446>
-24. Greene, J. E., Labbé, I., Goulding, A. D., et al. UNCOVER spectroscopy confirms a surprising ubiquity of AGN in red galaxies at z>5. ApJ; arXiv:2309.05714. 2024 — <https://arxiv.org/abs/2309.05714>
-25. Kokorev, V., Caputi, K. I., Greene, J. E., et al. A Census of Photometrically Selected Little Red Dots at 4<z<9 in JWST Blank Fields. ApJ; arXiv:2401.09981. 2024 — <https://arxiv.org/abs/2401.09981>
-26. Ma, Y., Greene, J. E., Setton, D. J., et al. Counting Little Red Dots at z<4 with Ground-based Surveys and Spectroscopic Follow-up. submitted ApJL; arXiv:2504.08032. 2025 — <https://arxiv.org/abs/2504.08032>
-27. Euclid Collaboration: Bisigello, L. et al. Euclid Quick Data Release (Q1): Extending the quest for little red dots to z<4. A&A 711, A24. 2026 — <https://www.ipac.caltech.edu/publication/2026A&A...711A..24E>
-28. Bisigello et al. (Euclid Collaboration), Euclid Q1 XXIV: Extending the quest for little red dots to z < 4, A&A 711, A24 (2026)
-29. Wang, B., Leja, J., de Graaff, A., et al. RUBIES: Evolved Stellar Populations with Extended Formation Histories at z~7-8 in Candidate Massive Galaxies Identified with JWST/NIRSpec. ApJL 969, L13 (DOI 10.3847/2041-8213/ad55f7); arXiv:2405.01473. 2024 — <https://arxiv.org/abs/2405.01473>
-30. Wang, B., de Graaff, A., Davies, R. L., et al. RUBIES: JWST/NIRSpec Confirmation of an Infrared-luminous, Broad-line Little Red Dot with an Ionized Outflow. ApJ 984, 121 (DOI 10.3847/1538-4357/adc1ca); arXiv:2403.02304. 2025 — <https://arxiv.org/abs/2403.02304>
-31. de Graaff, A. et al. A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5. A&A 701, A168. 2025 — <https://arxiv.org/abs/2503.16600>
-32. Kokorev, V., Chisholm, J., Naidu, R. P. et al. The Ashes of Supermassive Stars: Globular Cluster-like Aluminum Enhancement in Little Red Dots. arXiv:2609.09271. 2026 — <https://arxiv.org/abs/2609.09271>
-33. Liu, Z., Naidu, R. P. et al. How I Wonder What You Are -- JWST's Little Red Dots do not TWINKLE. arXiv:2604.13000 (submitted ApJ). 2026 — <https://arxiv.org/abs/2604.13000>
-34. Rusakov, V., Watson, D. et al. Little red dots as young supermassive black holes in dense ionized cocoons. Nature 649, 574-579. 2026 — <https://arxiv.org/abs/2503.16595>
-35. Pacucci, F., Nguyen, B., Carniani, S., Maiolino, R., Fan, X. JWST CEERS & JADES Active Galaxies at z=4-7 Violate the Local M•-M★ Relation at >3σ. ApJL 957. 2023 — <https://arxiv.org/abs/2308.12331>
-36. Maiolino, R. et al. JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty. A&A 691, A145. 2024 — <https://arxiv.org/abs/2308.01230>
-37. Maiolino, R. et al. A small and vigorous black hole in the early Universe. Nature 627, 59-63. 2024 — <https://arxiv.org/abs/2305.12492>
-38. D'Eugenio, F., Maiolino, R. et al. BlackTHUNDER strikes twice: rest-frame Balmer-line absorption and high Eddington accretion rate in a Little Red Dot at z=7.04. MNRAS. 2025 — <https://arxiv.org/abs/2503.11752>
-39. Inayoshi, K. & Maiolino, R. Extremely Dense Gas around Little Red Dots and High-redshift AGNs: A Non-stellar Origin of the Balmer Break and Absorption Features. ApJL. 2025 — <https://arxiv.org/abs/2409.07805>
-40. Maiolino, R. et al. JWST meets Chandra: a large population of Compton thick, feedback-free, and intrinsically X-ray weak AGN, with a sprinkle of SNe. MNRAS. 2025 — <https://arxiv.org/abs/2405.00504>
-41. Juodžbalis, I., Marconcini, C., D'Eugenio, F., Maiolino, R. et al. A direct black-hole mass measurement in a little red dot at high redshift. Nature, DOI 10.1038/s41586-026-10579-4. 2026 — <https://arxiv.org/abs/2508.21748>
-42. Inayoshi, K., Visbal, E., Haiman, Z. The Assembly of the First Massive Black Holes. ARA&A 58. 2020 — <https://arxiv.org/abs/1911.05791>
-43. Inayoshi, K. Little Red Dots as the Very First Activity of Black Hole Growth. ApJL (accepted); arXiv:2503.05537. 2025 — <https://arxiv.org/abs/2503.05537>
-44. Kido, D., Ioka, K., Hotokezaka, K., Inayoshi, K., Irwin, C. M. Black Hole Envelopes in Little Red Dots. arXiv:2505.06965. 2025 — <https://arxiv.org/abs/2505.06965>
+1. NASA, ESA, CSA, STScI, D. Kocevski. Little Red Dots (NIRCam Image). NASA Science image asset. 2025 — <https://science.nasa.gov/asset/webb/little-red-dots-nircam-image/>
+2. Kocevski, D. D., Onoue, M., Inayoshi, K., et al. Hidden Little Monsters: Spectroscopic Identification of Low-Mass, Broad-Line AGN at z>5 with CEERS. ApJL; arXiv:2302.00012. 2023 — <https://arxiv.org/abs/2302.00012>
+3. Kocevski, D. D., Finkelstein, S. L., Barro, G., Taylor, A. J., et al. The Rise of Faint, Red AGN at z>4: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields. ApJ; arXiv:2404.03576. 2025 — <https://arxiv.org/abs/2404.03576>
+4. Kocevski, D. D., Taylor, A. J. et al. Skyfire: A Spectroscopic Census of Little Red Dots and Broad-Line AGN in the CEERS Field. arXiv:2609.00112. 2026 — <https://arxiv.org/abs/2609.00112>
+5. Pacucci, F., Ferrara, A., Kocevski, D. D. The Little Red Dots Are Direct Collapse Black Holes. arXiv:2601.14368. 2026 — <https://arxiv.org/abs/2601.14368>
+6. Matthee, J., Naidu, R. P., Brammer, G., et al. Little Red Dots: an abundant population of faint AGN at z~5 revealed by the EIGER and FRESCO JWST surveys. ApJ; arXiv:2306.05448. 2024 — <https://arxiv.org/abs/2306.05448>
+7. Naidu, R. P., Matthee, J., Katz, H., de Graaff, A., Oesch, P. et al. A Black Hole Star Reveals the Remarkable Gas-Enshrouded Hearts of the Little Red Dots (published as 'A Gas Enshrouded and Gas Reddened Black Hole at Cosmic Dawn'). arXiv:2503.16596; Nature (2026), DOI 10.1038/s41586-026-10846-4. 2026 — <https://arxiv.org/abs/2503.16596>
+8. Naidu, Matthee et al., 'A Gas Enshrouded and Gas Reddened Black Hole at Cosmic Dawn', Nature 2026, DOI 10.1038/s41586-026-10846-4 (via MIT News and ERC releases) — <https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812>
+9. Baggen, J. F. W., van Dokkum, P., Labbé, I., et al. Sizes and mass profiles of candidate massive galaxies discovered by JWST at 7<z<9. ApJL; arXiv:2305.17162. 2023 — <https://arxiv.org/abs/2305.17162>
+10. Labbé, I., Greene, J. E., Bezanson, R., et al. UNCOVER: Candidate Red Active Galactic Nuclei at 3<z<7 with JWST and ALMA. ApJ (submitted at time of arXiv); arXiv:2306.07320. 2023 — <https://arxiv.org/abs/2306.07320>
+11. Labbé, I., van Dokkum, P., Nelson, E., et al. A population of red candidate massive galaxies ~600 Myr after the Big Bang. Nature (DOI 10.1038/s41586-023-05786-2); arXiv:2207.12446. 2023 — <https://arxiv.org/abs/2207.12446>
+12. Greene, J. E., Labbé, I., Goulding, A. D., et al. UNCOVER spectroscopy confirms a surprising ubiquity of AGN in red galaxies at z>5. ApJ; arXiv:2309.05714. 2024 — <https://arxiv.org/abs/2309.05714>
+13. Kokorev, V., Caputi, K. I., Greene, J. E., et al. A Census of Photometrically Selected Little Red Dots at 4<z<9 in JWST Blank Fields. ApJ; arXiv:2401.09981. 2024 — <https://arxiv.org/abs/2401.09981>
+14. Ma, Y., Greene, J. E., Setton, D. J., et al. Counting Little Red Dots at z<4 with Ground-based Surveys and Spectroscopic Follow-up. submitted ApJL; arXiv:2504.08032. 2025 — <https://arxiv.org/abs/2504.08032>
+15. Euclid Collaboration: Bisigello, L. et al. Euclid Quick Data Release (Q1): Extending the quest for little red dots to z<4. A&A 711, A24. 2026 — <https://www.ipac.caltech.edu/publication/2026A&A...711A..24E>
+16. Bisigello et al. (Euclid Collaboration), Euclid Q1 XXIV: Extending the quest for little red dots to z < 4, A&A 711, A24 (2026)
+17. Wang, B., Leja, J., de Graaff, A., et al. RUBIES: Evolved Stellar Populations with Extended Formation Histories at z~7-8 in Candidate Massive Galaxies Identified with JWST/NIRSpec. ApJL 969, L13 (DOI 10.3847/2041-8213/ad55f7); arXiv:2405.01473. 2024 — <https://arxiv.org/abs/2405.01473>
+18. Wang, B., de Graaff, A., Davies, R. L., et al. RUBIES: JWST/NIRSpec Confirmation of an Infrared-luminous, Broad-line Little Red Dot with an Ionized Outflow. ApJ 984, 121 (DOI 10.3847/1538-4357/adc1ca); arXiv:2403.02304. 2025 — <https://arxiv.org/abs/2403.02304>
+19. de Graaff, A. et al. A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5. A&A 701, A168. 2025 — <https://arxiv.org/abs/2503.16600>
+20. Kokorev, V., Chisholm, J., Naidu, R. P. et al. The Ashes of Supermassive Stars: Globular Cluster-like Aluminum Enhancement in Little Red Dots. arXiv:2609.09271. 2026 — <https://arxiv.org/abs/2609.09271>
+21. Liu, Z., Naidu, R. P. et al. How I Wonder What You Are -- JWST's Little Red Dots do not TWINKLE. arXiv:2604.13000 (submitted ApJ). 2026 — <https://arxiv.org/abs/2604.13000>
+22. Rusakov, V., Watson, D. et al. Little red dots as young supermassive black holes in dense ionized cocoons. Nature 649, 574-579. 2026 — <https://arxiv.org/abs/2503.16595>
+23. Pacucci, F., Nguyen, B., Carniani, S., Maiolino, R., Fan, X. JWST CEERS & JADES Active Galaxies at z=4-7 Violate the Local M•-M★ Relation at >3σ. ApJL 957. 2023 — <https://arxiv.org/abs/2308.12331>
+24. Maiolino, R. et al. JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty. A&A 691, A145. 2024 — <https://arxiv.org/abs/2308.01230>
+25. Maiolino, R. et al. A small and vigorous black hole in the early Universe. Nature 627, 59-63. 2024 — <https://arxiv.org/abs/2305.12492>
+26. D'Eugenio, F., Maiolino, R. et al. BlackTHUNDER strikes twice: rest-frame Balmer-line absorption and high Eddington accretion rate in a Little Red Dot at z=7.04. MNRAS. 2025 — <https://arxiv.org/abs/2503.11752>
+27. Inayoshi, K. & Maiolino, R. Extremely Dense Gas around Little Red Dots and High-redshift AGNs: A Non-stellar Origin of the Balmer Break and Absorption Features. ApJL. 2025 — <https://arxiv.org/abs/2409.07805>
+28. Maiolino, R. et al. JWST meets Chandra: a large population of Compton thick, feedback-free, and intrinsically X-ray weak AGN, with a sprinkle of SNe. MNRAS. 2025 — <https://arxiv.org/abs/2405.00504>
+29. Juodžbalis, I., Marconcini, C., D'Eugenio, F., Maiolino, R. et al. A direct black-hole mass measurement in a little red dot at high redshift. Nature, DOI 10.1038/s41586-026-10579-4. 2026 — <https://arxiv.org/abs/2508.21748>
+30. Inayoshi, K., Visbal, E., Haiman, Z. The Assembly of the First Massive Black Holes. ARA&A 58. 2020 — <https://arxiv.org/abs/1911.05791>
+31. Inayoshi, K. Little Red Dots as the Very First Activity of Black Hole Growth. ApJL (accepted); arXiv:2503.05537. 2025 — <https://arxiv.org/abs/2503.05537>
+32. Kido, D., Ioka, K., Hotokezaka, K., Inayoshi, K., Irwin, C. M. Black Hole Envelopes in Little Red Dots. arXiv:2505.06965. 2025 — <https://arxiv.org/abs/2505.06965>
+33. NASA Science, 'Webb's First Images: Dawn of a New Era' — <https://science.nasa.gov/asset/webb/webbs-first-images-dawn-of-a-new-era/>
+34. NASA Science, 'Webb's Mirrors' — <https://science.nasa.gov/mission/webb/webbs-mirrors/>
+35. NASA Science, Webb Telescope Overview — <https://science.nasa.gov/mission/webb/science-overview/science-explainers/telescope-overview/>
+36. NASA Science, 'How Can Webb Study the Early Universe?' — <https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-can-webb-study-the-early-universe/>
+37. NASA Science, 'Our Milky Way Galaxy: How Big is Space?' — <https://science.nasa.gov/universe/exoplanets/our-milky-way-galaxy-how-big-is-space/>
+38. NASA Science, 'The Impact of Webb on Our Understanding of Black Holes' (9 Oct 2026) — <https://science.nasa.gov/mission/webb/science-overview/science-explainers/the-impact-of-webb-on-our-understanding-of-black-holes/>
+39. NASA. Black hole existed 570 million years after Big Bang (NIRSpec MSA emission spectrum). NASA Science. 2023 — <https://science.nasa.gov/asset/webb/black-hole-existed-570-million-years-after-big-bang-nirspec-msa-emission-spectrum>
+40. NASA. Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds (14 Jan 2025). NASA Science release. 2025 — <https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/>
+41. NASA Science. Supermassive Black Holes / Little Red Dots / The Impact of Webb on Our Understanding of Black Holes. science.nasa.gov (9 Oct 2026). 2026 — <https://science.nasa.gov/asset/webb/supermassive-black-holes/>
+42. NASA Science. NASA Webb Finds Strongest Evidence Yet for 'Black Hole Stars'. science.nasa.gov (10 Jun 2026). 2026 — <https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/>
+43. NASA Science. NASA's Webb Reveals Black Hole That Formed Before Its Galaxy. science.nasa.gov (27 May 2026). 2026 — <https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/>
+44. Image credits and licences: listed per file in media/media.json (NASA images public domain; ESA/Webb and paper figures CC BY 4.0; the NOIRLab image is an artist's impression)
 45. Planck Collaboration. Planck 2018 results. VI. Cosmological parameters. A&A 641, A6. 2020 — <https://arxiv.org/abs/1807.06209>
 46. Boylan-Kolchin, M. Stress Testing ΛCDM with High-redshift Galaxy Candidates. Nature Astronomy 7, 731-735 (DOI 10.1038/s41550-023-01937-7); arXiv:2208.01611. 2023 — <https://arxiv.org/abs/2208.01611>
 47. Chworowsky, K. et al. Evidence for a Shallow Evolution in the Volume Densities of Massive Galaxies at z=4 to 8 from CEERS. arXiv preprint (journal unverified). 2023 — <https://arxiv.org/abs/2311.14804>
