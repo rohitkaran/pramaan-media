@@ -80,7 +80,7 @@ Pramaan · Science, with proof · <https://www.youtube.com/@pramaan.science>
 74. Live Science / Science News coverage of UT Austin release — <https://www.livescience.com/space/black-holes/james-webb-telescope-spots-earliest-black-hole-in-the-known-universe-looking-as-far-back-as-you-can-practically-go>
 75. van Dokkum, P. et al. The ∞ Galaxy: A Candidate Direct-collapse Supermassive Black Hole between Two Massive, Ringed Nuclei. ApJL. 2025 — <https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/>
 
-## Images (11)
+## Images (12)
 
 - Little Red Dots (NIRCam Image) (2025-101): Image: NASA, ESA, CSA, STScI, Dale Kocevski (Colby College) / Wikimedia Commons, Public domain, <https://commons.wikimedia.org/wiki/File:Little_Red_Dots_(NIRCam_Image>)_(2025-101).png
 - Little red dot galaxy stamps 20 unlabeled: Jorryt Matthee et al. / Wikimedia Commons, CC BY 4.0, <https://commons.wikimedia.org/wiki/File:Little_red_dot_galaxy_stamps_20_unlabeled.jpg>
@@ -93,5 +93,6 @@ Pramaan · Science, with proof · <https://www.youtube.com/@pramaan.science>
 - MoM-BH*-1: Rohan P. Naidu et al. March 2025 / Wikimedia Commons, CC BY 4.0, <https://commons.wikimedia.org/wiki/File:MoM-BH*-1.png>
 - Pandora's Cluster (NIRCam Image) (2023-107): Image: NASA et al. / Wikimedia Commons, Public domain, <https://commons.wikimedia.org/wiki/File:Pandora%27s_Cluster_(NIRCam_Image>)_(2023-107).png
 - Webb finds strongest evidence yet for "black hole stars” - Flickr - europeanspaceagency: European Space Agency / Wikimedia Commons, CC BY 4.0, <https://commons.wikimedia.org/wiki/File:Webb_finds_strongest_evidence_yet_for_%22black_hole_stars%E2%80%9D_-_Flickr_-_europeanspaceagency.jpg>
+- Webb's First Deep Field: NASA, ESA, CSA, and STScI / Wikimedia Commons, Public domain, <https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg>
 
 Corrections: comment on the video and we will review it against the sources.
