@@ -2,6 +2,8 @@
 
 Pramaan · Science, with proof · <https://www.youtube.com/@pramaan.science>
 
+Video: <https://youtu.be/SDDWnx0Nl8c>
+
 ## Sources and data (75)
 
 1. NASA, ESA, CSA, STScI, D. Kocevski. Little Red Dots (NIRCam Image). NASA Science image asset. 2025 — <https://science.nasa.gov/asset/webb/little-red-dots-nircam-image/>
