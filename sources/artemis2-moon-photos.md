@@ -2,6 +2,8 @@
 
 Pramaan · Science, with proof · <https://www.youtube.com/@pramaan.science>
 
+Video: <https://youtu.be/BRIwwVtRxtc>
+
 ## Sources and data (14)
 
 1. NASA (Missions blog). NASA Releases Artemis II Lunar Science Data, Images. 7 Oct 2026 — <https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/>
